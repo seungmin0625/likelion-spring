@@ -5,3 +5,4 @@ spring:
     url: jdbc:mysql://likelion-database.cbqu0yoyat5f.ap-northeast-2.rds.amazonaws.com:3306/likeliondatabase
     username: likelion
     password: likelion1234
+dd
