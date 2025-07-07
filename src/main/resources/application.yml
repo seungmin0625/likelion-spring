@@ -1,7 +1,7 @@
 spring:
   application:
     name: likelion-Spring
-#  datasource:
-#    url: jdbc:mysql://likelion-database.cbqu0yoyat5f.ap-northeast-2.rds.amazonaws.com:3306/likeliondatabase
-#    username: likelion
-#    password: likelion1234
+  datasource:
+    url: jdbc:mysql://likelion-database.c9qy0akgsvnw.ap-northeast-2.rds.amazonaws.com
+    username: likelion
+    password: likelion1234
